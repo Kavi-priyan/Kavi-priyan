@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello there 😀
 Hi I am Kavi priyan , an AI/ML Engineer
 
 > “Admiration is the furthest thing from understanding.”
