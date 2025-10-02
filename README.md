@@ -4,7 +4,9 @@ Hi I am Kavi priyan , an AI/ML Engineer
 > “Admiration is the furthest thing from understanding.”
 
 
-![Omnitrix](https://yourhost.com/path/to/omnitrix.gif)
+![Omnitrix]([https://yourhost.com/path/to/omnitrix.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fben-10-alien-watch-gif--2674081024245838%2F&psig=AOvVaw0zBl1PV7X8UrdBbSqJ--Oq&ust=1759500998643000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjfmJvahZADFQAAAAAdAAAAABAU))
+
+
 <!--
 **Kavi-priyan/Kavi-priyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
