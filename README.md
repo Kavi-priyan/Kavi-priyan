@@ -2,6 +2,9 @@
 Hi I am Kavi priyan , an AI/ML Engineer
 
 > “Admiration is the furthest thing from understanding.”
+
+
+![Omnitrix](https://yourhost.com/path/to/omnitrix.gif)
 <!--
 **Kavi-priyan/Kavi-priyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
