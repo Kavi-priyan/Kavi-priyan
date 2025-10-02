@@ -4,7 +4,6 @@ Hi I am Kavi priyan , an AI/ML Engineer
 > “Admiration is the furthest thing from understanding.”
 
 
-![Omnitrix](https://i.redd.it/1vv7swc1smqb1.gif)
 
 
 <!--
