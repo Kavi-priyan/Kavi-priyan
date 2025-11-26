@@ -22,9 +22,7 @@ Hi I am Kavi priyan, an AI/ML Engineer, building neural networks and Scalable we
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_kavipriyan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavi-priyan-26x12) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rkavipriyan11) 
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_kavipriyan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavi-priyan-26x12) 
 
 <!--
 **Kavi-priyan/Kavi-priyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
